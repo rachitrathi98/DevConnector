@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://Rachit123:Rachit123@devconnector.mndsg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"7d606c56c4a2b35bf26f",
+    "githubSecret":"354cb876ef69399032532d1c969d7abda0dcab72"
+}
